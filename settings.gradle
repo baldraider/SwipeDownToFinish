@@ -1,1 +1,1 @@
-include ':app', ':swipedowntofinish'
+include ':sample', ':swipedowntofinish'
