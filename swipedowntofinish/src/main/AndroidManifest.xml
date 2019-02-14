@@ -1,2 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.hangonsushant.swipedowntofinish" />
+    package="com.github.hangonsushant.swipedowntofinish" >
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name">
+
+        <activity android:name=".SwipeDownToFinishActivity" />
+    </application>
+
+</manifest>
